@@ -1,0 +1,32 @@
+_repo: The-History-of-Thomas-Ellwood-Written-By-Himself_6925
+contributor:
+  author_of_introduction:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+creator:
+  author:
+    agent_name: Ellwood, Thomas
+    birthdate: 1639
+    deathdate: 1713
+    gutenberg_agent_id: '2260'
+    url: http://www.gutenberg.org/2009/agents/2260
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Ellwood
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6925'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Ellwood, Thomas, 1639-1713'
+- !lcsh 'Quakers -- Biography'
+title: The History of Thomas Ellwood Written By Himself
+url: http://www.gutenberg.org/ebooks/6925
