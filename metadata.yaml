@@ -1,4 +1,5 @@
 _repo: The-History-of-Thomas-Ellwood-Written-By-Himself_6925
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Morley, Henry
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '1355'
     url: http://www.gutenberg.org/2009/agents/1355
     wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+covers:
+- cover_type: archival
+  image_path: 6925-h/images/coverb.jpg
 creator:
   author:
     agent_name: Ellwood, Thomas
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2260
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Ellwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6925#The-History-of-Thomas-Ellwood-Written-By-Himself
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
